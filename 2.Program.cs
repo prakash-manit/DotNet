@@ -15,12 +15,7 @@ namespace InterviewQues
             //CheckAssembly();
             //Console.WriteLine(MyExtensions.WordCount("Test  SD  DD CC"));
             //StringnStringBuilder();
-            //Que.GetAllUniqueSetWhoseSumIsGivenNumber(5);
-            //int [] result = ArrayManipulation.ReplaceArrayElementWithSum(new int[] { 5, 12, 18, 22, 27 });
-            //foreach (int a in result )
-            //{
-            //    Console.WriteLine(a);
-            //}
+            
 
             //if (!DBNull.Value.Equals(row[fieldName]))
             //    return (string)row[fieldName] + " ";
@@ -38,11 +33,12 @@ namespace InterviewQues
 
         //private static void CheckAssembly()
         //{
-        //    Console.WriteLine(Assembly.GetAssembly(new Program().GetType()));
-        //    Console.WriteLine(Assembly.GetCallingAssembly());
-        //    Console.WriteLine(Assembly.GetEntryAssembly());
-        //    Console.WriteLine(Assembly.GetExecutingAssembly());
-        //}               
+            //    Console.WriteLine(Assembly.GetAssembly(new Program().GetType()));
+            //    Console.WriteLine(Assembly.GetCallingAssembly());
+            //    Console.WriteLine(Assembly.GetEntryAssembly());
+            //    Console.WriteLine(Assembly.GetExecutingAssembly());
+        //}
+        
         private static void StringnStringBuilder()
         {
             //string a = "prakash";
